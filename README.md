@@ -20,7 +20,7 @@ This project uses Google Earth Engine and Python to detect and map canopy loss w
 Sentinel-2 and Landsat 8/9 surface reflectance imagery was filtered by date and cloud cover, then combined into composites for each period.
 
 ### Canopy Change Detection
-Vegetation indices ([NDVI]) were calculated for each period. The difference between periods was thresholded to flag areas of canopy loss, shown in red on the map. The map is visualized at [X] m scale.
+Vegetation indices ([NDVI]) were calculated for each period. The difference between periods was thresholded to flag areas of canopy loss, shown in red on the map. The map is visualized at 10 m scale.
 
 ## Visualizations
 
